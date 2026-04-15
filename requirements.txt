@@ -1,0 +1,56 @@
+# ============================================================
+# Data Engineering Portfolio — Projects 1-5
+# Python 3.10+
+# ============================================================
+
+# Kafka
+kafka-python==2.0.2
+
+# PySpark
+pyspark==3.5.0
+
+# Airflow
+apache-airflow==2.8.1
+apache-airflow-providers-google==10.13.1
+apache-airflow-providers-amazon==8.19.0
+apache-airflow-providers-snowflake==5.3.1
+
+# Cloud — BigQuery
+google-cloud-bigquery==3.17.2
+google-cloud-storage==2.16.0
+
+# Cloud — Redshift / AWS
+boto3==1.34.34
+psycopg2-binary==2.9.9
+redshift-connector==2.1.1
+
+# Cloud — Snowflake
+snowflake-connector-python==3.7.1
+snowflake-sqlalchemy==1.5.1
+
+# dbt (Project 4)
+dbt-core==1.7.9
+dbt-snowflake==1.7.4
+
+# NoSQL — MongoDB (Project 3)
+pymongo==4.6.1
+
+# NoSQL — Cassandra (Project 5)
+cassandra-driver==3.29.1
+
+# NLP — Reddit Sentiment (Project 3)
+praw==7.7.1
+vaderSentiment==3.3.2
+textblob==0.18.0
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.4
+pyarrow==15.0.0
+
+# HTTP
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
